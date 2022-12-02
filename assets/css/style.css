@@ -86,12 +86,13 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* changed class to aside section and commented out css not needed */
+aside section{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+/* .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -99,14 +100,14 @@ aside {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-lead h3 {
+} */
+/* changed class to section and commented out css not needed */
+section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+/* .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -114,15 +115,15 @@ aside {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-.benefit-lead img {
+} */
+/* changed from class too  aside section img commented out css not needed */
+ aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -132,9 +133,9 @@ aside {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-section{
+} */
+/* changed class to main section and commented out css not needed  */
+ main section{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,11 +162,11 @@ section{
     color: #ffffff;
 } */
 
-section img {
+ main img {
     max-height: 200px;
 }
  
-/* commented out into one section img */
+/* commented out and into one section img */
 /* .online-reputation-management img {
     max-height: 200px;
 }
@@ -174,7 +175,7 @@ section img {
     max-height: 200px;
 } */
 /* changed from class to section */
-.section h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -189,13 +190,14 @@ section img {
     font-size: 36px;
 } */
 
+/* changed class of footer to footer */
 footer  {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* changed class of footer to footer */
+
 footer h2 {
     font-size: 20px;
 }
