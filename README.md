@@ -1,6 +1,6 @@
-#Code refactor challange 
+# Code refactor challange 
 
-##introduction
+## introduction
 Bootcamp challange of taking starter code and editing it to make the HTML semantic,
 As well as refactoring CSS to match the HTML.
 
