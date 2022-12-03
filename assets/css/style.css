@@ -74,7 +74,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-/* changed from class of benefits to aside */
+/* changed from class of .benefits to aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -92,21 +92,53 @@ aside section{
     color: #ffffff;
 }
 
-/* .benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 /* changed class to section and commented out css not needed */
 section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* changed from class to aside section img commented out css not needed */
+aside section img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* changed class to main section and commented out css not needed  */
+main section{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+main img {
+    max-height: 200px;
+}
+
+/* changed from class to section */
+section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* changed class of footer to footer */
+footer  {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+/* css not needed */
+
 
 /* .benefit-brand h3 {
     margin-bottom: 10px;
@@ -118,13 +150,6 @@ section h3 {
     text-align: center;
 } */
 
-/* changed from class to aside section img commented out css not needed */
- aside section img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /* .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -134,18 +159,33 @@ section h3 {
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
-} */
-
-/* changed class to main section and commented out css not needed  */
- main section{
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    max-width: 150px;/* .benefit-brand {
+    margin-bottom: 32px;
     color: #ffffff;
 }
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+} */
+
+/* .online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+} */
+
+/* .online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+} */
 
 /* .online-reputation-management {
     margin-bottom: 20px;
@@ -164,46 +204,3 @@ section h3 {
     background-color: #0072bb;
     color: #ffffff;
 } */
-
- main img {
-    max-height: 200px;
-}
- 
-/* commented out and into one main img */
-
-/* .online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-} */
-
-/* changed from class to section */
-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* commented out into one section h2 */
-/* .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
-
-/* changed class of footer to footer */
-footer  {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
