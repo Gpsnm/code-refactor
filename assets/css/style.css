@@ -92,8 +92,8 @@ aside section{
     color: #ffffff;
 }
 
-/* changed class to section and commented out css not needed */
-section h3 {
+/* changed class h3 to aside h2 and commented out css not needed */
+aside h2 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -119,8 +119,9 @@ main img {
     max-height: 200px;
 }
 
-/* changed from class to section */
-section h2 {
+
+/* changed from class to main */
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
