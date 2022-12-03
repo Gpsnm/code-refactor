@@ -10,5 +10,7 @@ Project is created with HTML AND CSS
 
 ## Image of web page
 
+
 ## Link to live site
 https://gpsnm.github.io/code-refactor/
+<img src="./assets/images/Read me Screen shot.png" alt="">
