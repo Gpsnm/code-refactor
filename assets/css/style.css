@@ -74,7 +74,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* changed from class of benefits to aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -101,6 +101,7 @@ aside section{
     margin-bottom: 32px;
     color: #ffffff;
 } */
+
 /* changed class to section and commented out css not needed */
 section h3 {
     margin-bottom: 10px;
@@ -116,7 +117,8 @@ section h3 {
     margin-bottom: 10px;
     text-align: center;
 } */
-/* changed from class too  aside section img commented out css not needed */
+
+/* changed from class to aside section img commented out css not needed */
  aside section img {
     display: block;
     margin: 10px auto;
@@ -134,6 +136,7 @@ section h3 {
     margin: 10px auto;
     max-width: 150px;
 } */
+
 /* changed class to main section and commented out css not needed  */
  main section{
     margin-bottom: 20px;
@@ -166,7 +169,8 @@ section h3 {
     max-height: 200px;
 }
  
-/* commented out and into one section img */
+/* commented out and into one main img */
+
 /* .online-reputation-management img {
     max-height: 200px;
 }
@@ -174,11 +178,13 @@ section h3 {
 .social-media-marketing img {
     max-height: 200px;
 } */
+
 /* changed from class to section */
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /* commented out into one section h2 */
 /* .online-reputation-management h2 {
     margin-bottom: 20px;
